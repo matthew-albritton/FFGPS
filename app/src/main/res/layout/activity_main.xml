@@ -12,6 +12,6 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="247dp"
-        android:src="@mipmap/ic_launcher" />
+        android:src="@drawable/abc_popup_background_mtrl_mult" />
 
 </RelativeLayout>
